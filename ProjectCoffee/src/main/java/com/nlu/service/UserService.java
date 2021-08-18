@@ -111,19 +111,11 @@ public class UserService {
     }
 
     public static void main(String[] args) {
-        UserService userService = new UserService();
-
-//       System.out.println();
-//       System.out.println();
-//        User us = new User("8889", "khanh5", "QuanLy", "QuanLy", "789", "465123794");
-//        String user = userService.signup(us);
-//        System.out.println(user);
+//        UserService userService = new UserService();
 //        List<User> u = userService.findAll();
 //        for (User use : u){
 //            System.out.println(use.toString());
 //        }
-//        User u = userService.checkAccountExist("yennhi");
-//        System.out.println(u.toString());
 
     }
 
